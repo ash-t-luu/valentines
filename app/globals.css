@@ -134,5 +134,6 @@ p {
   .yay-img {
     width: 400px;
     height: 200px;
+    padding-top: 125px;
   }
 }
