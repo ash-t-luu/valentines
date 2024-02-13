@@ -23,10 +23,12 @@ export default function Home() {
     const phrases = [
       "Wrong button ❌",
       "Are you sure 🤔?",
-      "But what if 🫣?",
+      "But what if 🧐?",
       "You're breaking my heart 💔",
       "Pwetty please 🥺👉👈",
-      "Can't catch up? 😂"
+      "Can't catch up? 😂",
+      "Stop playin hard to get c'mon 😤"
+      
     ]
 
     const randomIndex = Math.floor(Math.random() * phrases.length);
