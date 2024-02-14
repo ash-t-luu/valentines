@@ -130,6 +130,12 @@ p {
    } 
 }
 
+@media screen and (max-width: 430px) {
+  p {
+      font-size: 29px; 
+   } 
+}
+
 @media screen and (max-width: 600px) {
   .yay-img {
     width: 400px;
